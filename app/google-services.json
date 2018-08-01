@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917149322903",
+    "firebase_url": "https://qrparking-avinash.firebaseio.com",
+    "project_id": "qrparking-avinash",
+    "storage_bucket": "qrparking-avinash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917149322903:android:a8ed35d616f13dd2",
+        "android_client_info": {
+          "package_name": "avinashgoogle.qrparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917149322903-2vflm0fj5tng2iiuf7hp769onal6hbrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avinashgoogle.qrparking",
+            "certificate_hash": "ecc23b9ac89ebd1a18f1ec6b388f3a36c7a09eb7"
+          }
+        },
+        {
+          "client_id": "917149322903-ep8uc25hbdaohfutbf6eses0cp5uedmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8IiuwmpFQpvHe2JtXUX3KPgkNfVFdas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917149322903-ep8uc25hbdaohfutbf6eses0cp5uedmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
